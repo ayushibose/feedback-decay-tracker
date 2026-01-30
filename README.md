@@ -193,3 +193,6 @@ feedback-decay-tracker/
 ---
 
 **Author**: Ayushi Bose  
+
+<img width="1043" height="780" alt="image" src="https://github.com/user-attachments/assets/18001815-9b8e-4e98-b964-b32eb425658e" />
+
