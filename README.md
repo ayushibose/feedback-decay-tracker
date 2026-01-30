@@ -181,7 +181,6 @@ feedback-decay-tracker/
 
 - Cursor
 - Cloudflare Developer Platform
-- Designed for the Cloudflare PM Internship Assignment (2026)
 
 ---
 
