@@ -1,0 +1,74 @@
+-- DELETE OLD DATA FIRST (optional but recommended for clean slate)
+DELETE FROM feedback WHERE issue_theme = 'API rate limits too strict';
+DELETE FROM feedback WHERE issue_theme = 'Billing errors';
+DELETE FROM feedback WHERE issue_theme = 'Documentation unclear';
+
+-- CRITICAL ISSUE #1: API rate limits too strict
+-- This WILL create a decay score of 80+
+-- Pattern: 68 days old, 24 complaints, huge volume increase, sentiment crash, 4 channels
+
+-- Phase 1: 68-60 days ago (OLD PERIOD) - 5 mild complaints on Discord
+INSERT INTO feedback (user_id, channel, issue_theme, feedback_text, sentiment_score, created_at) VALUES
+('user_42', 'Discord', 'API rate limits too strict', 'Hey, hitting rate limits frequently. Any tips?', -0.2, '2024-11-23'),
+('user_87', 'Discord', 'API rate limits too strict', 'Rate limits seem low for my use case', -0.25, '2024-11-26'),
+('user_42', 'Discord', 'API rate limits too strict', 'Still dealing with rate limit issues', -0.3, '2024-11-29'),
+('user_133', 'Discord', 'API rate limits too strict', 'Can we get higher rate limits?', -0.28, '2024-12-01'),
+('user_87', 'Discord', 'API rate limits too strict', 'This is becoming frustrating', -0.35, '2024-12-03');
+
+-- Phase 2: 45-30 days ago (MIDDLE PERIOD) - 7 frustrated complaints, moving to Email
+INSERT INTO feedback (user_id, channel, issue_theme, feedback_text, sentiment_score, created_at) VALUES
+('user_42', 'Discord', 'API rate limits too strict', 'Rate limits are seriously blocking our app', -0.5, '2024-12-16'),
+('user_87', 'Email', 'API rate limits too strict', 'Need urgent help with rate limits', -0.55, '2024-12-19'),
+('user_133', 'Discord', 'API rate limits too strict', 'This is getting worse', -0.52, '2024-12-21'),
+('user_42', 'Email', 'API rate limits too strict', 'URGENT: Rate limits affecting production', -0.65, '2024-12-23'),
+('user_87', 'Email', 'API rate limits too strict', 'We are losing customers because of this', -0.7, '2024-12-26'),
+('user_133', 'Email', 'API rate limits too strict', 'Cannot continue like this', -0.68, '2024-12-28'),
+('user_42', 'Support Ticket', 'API rate limits too strict', 'Critical production issue with rate limits', -0.75, '2024-12-31');
+
+-- Phase 3: 14-1 days ago (RECENT PERIOD) - 12 ANGRY complaints, going public
+INSERT INTO feedback (user_id, channel, issue_theme, feedback_text, sentiment_score, created_at) VALUES
+('user_87', 'Support Ticket', 'API rate limits too strict', 'This needs to be fixed immediately', -0.8, '2025-01-16'),
+('user_42', 'Email', 'API rate limits too strict', 'Considering switching providers', -0.85, '2025-01-18'),
+('user_133', 'Support Ticket', 'API rate limits too strict', 'CRITICAL: Business impact from rate limits', -0.88, '2025-01-20'),
+('user_87', 'Twitter', 'API rate limits too strict', '@cloudflare rate limits are killing our app. Need better limits!', -0.9, '2025-01-23'),
+('user_42', 'Twitter', 'API rate limits too strict', 'Frustrated with @cloudflare rate limits. Has been an issue for 2 months.', -0.92, '2025-01-25'),
+('user_133', 'Email', 'API rate limits too strict', 'Final warning: fix this or we leave', -0.95, '2025-01-27'),
+('user_87', 'Twitter', 'API rate limits too strict', '@cloudflare this is unacceptable. 60+ days with no fix.', -0.95, '2025-01-29'),
+('user_42', 'Support Ticket', 'API rate limits too strict', 'ESCALATION: CEO wants answers on rate limits', -0.93, '2025-01-28'),
+('user_201', 'Twitter', 'API rate limits too strict', 'Looking at alternatives due to rate limit issues', -0.88, '2025-01-26'),
+('user_202', 'Email', 'API rate limits too strict', 'This is blocking our entire launch', -0.87, '2025-01-24'),
+('user_203', 'Support Ticket', 'API rate limits too strict', 'Rate limits are unreasonable', -0.86, '2025-01-22'),
+('user_133', 'Twitter', 'API rate limits too strict', 'Anyone else having @cloudflare rate limit nightmares?', -0.91, '2025-01-21');
+
+-- Summary for API rate limits:
+-- Total: 24 complaints
+-- Old period (60-68 days ago): 5 complaints
+-- Middle period (30-45 days ago): 7 complaints  
+-- Recent period (1-14 days ago): 12 complaints
+-- Volume increase: (12-5)/5 = 140% increase (or compare recent vs previous 14 days)
+-- Sentiment: Started at -0.2, ended at -0.95 (decline of 0.75)
+-- Channels: Discord, Email, Support Ticket, Twitter (4 channels!)
+-- Age: 68 days
+
+-- CRITICAL ISSUE #2: Billing errors
+-- Single user escalating across channels over 45 days
+INSERT INTO feedback (user_id, channel, issue_theme, feedback_text, sentiment_score, created_at) VALUES
+('user_847', 'Discord', 'Billing errors', 'Got charged twice this month, looks like a bug', -0.35, '2024-12-16'),
+('user_847', 'Discord', 'Billing errors', 'Still seeing double charges', -0.45, '2024-12-21'),
+('user_847', 'Email', 'Billing errors', 'Need help with billing issues, been weeks', -0.6, '2025-01-06'),
+('user_847', 'Email', 'Billing errors', 'This is ridiculous, still not fixed', -0.7, '2025-01-13'),
+('user_847', 'Support Ticket', 'Billing errors', 'URGENT: Billing errors costing us money', -0.8, '2025-01-19'),
+('user_847', 'Twitter', 'Billing errors', '@cloudflare billing is broken, been waiting 6 weeks for fix', -0.9, '2025-01-26'),
+('user_847', 'Twitter', 'Billing errors', 'Seriously considering legal action over billing', -0.95, '2025-01-29');
+
+-- STABLE ISSUE: Documentation unclear (for contrast)
+-- Consistent complaints, not escalating
+INSERT INTO feedback (user_id, channel, issue_theme, feedback_text, sentiment_score, created_at) VALUES
+('user_301', 'GitHub', 'Documentation unclear', 'KV docs could be clearer', -0.4, '2025-01-15'),
+('user_302', 'GitHub', 'Documentation unclear', 'Need better examples for Workers', -0.38, '2025-01-16'),
+('user_303', 'GitHub', 'Documentation unclear', 'D1 documentation is confusing', -0.42, '2025-01-17'),
+('user_304', 'GitHub', 'Documentation unclear', 'Would love more code samples', -0.4, '2025-01-18'),
+('user_305', 'GitHub', 'Documentation unclear', 'Docs need improvement', -0.39, '2025-01-20'),
+('user_306', 'GitHub', 'Documentation unclear', 'Please add more tutorials', -0.41, '2025-01-22'),
+('user_307', 'GitHub', 'Documentation unclear', 'Documentation could be better', -0.4, '2025-01-24'),
+('user_308', 'GitHub', 'Documentation unclear', 'Need clearer explanations', -0.38, '2025-01-26');
