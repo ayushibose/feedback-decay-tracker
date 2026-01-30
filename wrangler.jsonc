@@ -13,7 +13,7 @@
 	// ✅ D1 binding
 	"d1_databases": [
 		{
-			"binding": "feedback_db",
+			"binding": "DB",
 			"database_name": "feedback-db",
 			"database_id": "d95ce128-510a-4056-91a4-c41705bfbadb"
 		}
