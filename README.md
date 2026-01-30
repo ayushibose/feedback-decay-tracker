@@ -177,13 +177,6 @@ feedback-decay-tracker/
 └── package.json              # Dependencies
 ```
 
-## Key Differentiators
-
-1. **Time-Based Intelligence**: Most feedback tools are snapshots. This tracks *change over time*.
-2. **Actionable Prioritization**: Tells PMs exactly which fires to fight first.
-3. **Escalation Detection**: Identifies users moving from private channels to public complaints.
-4. **Real Product Thinking**: Demonstrates understanding of urgency vs. importance and churn prevention.
-
 ## Built With
 
 - Cursor
