@@ -77,11 +77,11 @@ npx wrangler login
 
 # Create D1 database
 npx wrangler d1 create feedback-db
-# Copy the database_id to wrangler.toml
+# Copy the database_id to wrangler.jsonc
 
 # Create KV namespace
 npx wrangler kv:namespace create "CACHE"
-# Copy the id to wrangler.toml
+# Copy the id to wrangler.jsonc
 ```
 
 ### Setup Database
@@ -173,7 +173,7 @@ feedback-decay-tracker/
 │   └── decay-calculator.js   # Core algorithm logic
 ├── schema.sql                # D1 database schema
 ├── critical-feedback.sql # Mock data with decay patterns
-├── wrangler.toml             # Cloudflare configuration
+├── wrangler.jsonc             # Cloudflare configuration
 └── package.json              # Dependencies
 ```
 
@@ -186,7 +186,7 @@ feedback-decay-tracker/
 
 ## Built With
 
-- Claude
+- Cursor
 - Cloudflare Developer Platform
 - Designed for the Cloudflare PM Internship Assignment (2026)
 
