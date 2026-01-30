@@ -1,0 +1,1826 @@
+[
+  {
+    "user_id": "user_13",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 0",
+    "sentiment_score": -0.17170638567043345,
+    "created_at": "2025-11-22T15:35:39.556Z"
+  },
+  {
+    "user_id": "user_31",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 1",
+    "sentiment_score": 0.006639805061314286,
+    "created_at": "2025-11-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_53",
+    "channel": "Discord",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 2",
+    "sentiment_score": 0.05622268606973052,
+    "created_at": "2025-12-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_99",
+    "channel": "Twitter",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 3",
+    "sentiment_score": 0.09954744756981732,
+    "created_at": "2025-11-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_3",
+    "channel": "GitHub",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 4",
+    "sentiment_score": -0.034271496372032695,
+    "created_at": "2025-12-03T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_27",
+    "channel": "Twitter",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 5",
+    "sentiment_score": -0.2057443634611386,
+    "created_at": "2025-12-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_4",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 6",
+    "sentiment_score": -0.019273785590871728,
+    "created_at": "2026-01-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_21",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 7",
+    "sentiment_score": 0.15438001125202555,
+    "created_at": "2025-11-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_22",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 8",
+    "sentiment_score": -0.23826034628943,
+    "created_at": "2025-12-05T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_47",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 9",
+    "sentiment_score": 0.13732623947915684,
+    "created_at": "2025-11-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_40",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 10",
+    "sentiment_score": 0.16191499596544817,
+    "created_at": "2025-11-12T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_37",
+    "channel": "Support Ticket",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 11",
+    "sentiment_score": -0.17515749641659512,
+    "created_at": "2026-01-16T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_57",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 12",
+    "sentiment_score": 0.16417400280515898,
+    "created_at": "2025-11-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_33",
+    "channel": "Discord",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 13",
+    "sentiment_score": 0.0037140916963723236,
+    "created_at": "2025-12-28T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_31",
+    "channel": "Discord",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 14",
+    "sentiment_score": -0.09477068529887273,
+    "created_at": "2025-12-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_37",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 15",
+    "sentiment_score": -0.20270242638105346,
+    "created_at": "2025-11-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_98",
+    "channel": "Support Ticket",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 16",
+    "sentiment_score": -0.01827897351300839,
+    "created_at": "2025-12-08T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_15",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 17",
+    "sentiment_score": -0.2831126194375821,
+    "created_at": "2025-11-13T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_96",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 18",
+    "sentiment_score": -0.1718906771672501,
+    "created_at": "2026-01-03T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_85",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 19",
+    "sentiment_score": 0.08846613268815523,
+    "created_at": "2025-12-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_61",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 20",
+    "sentiment_score": -0.0816187773708536,
+    "created_at": "2025-12-11T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_18",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 21",
+    "sentiment_score": -0.21110274646555643,
+    "created_at": "2026-01-13T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_55",
+    "channel": "GitHub",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 22",
+    "sentiment_score": 0.09757736283927482,
+    "created_at": "2025-11-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_76",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 23",
+    "sentiment_score": 0.04173437339178915,
+    "created_at": "2025-12-01T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_39",
+    "channel": "Twitter",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 24",
+    "sentiment_score": -0.06285152772870789,
+    "created_at": "2026-01-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_16",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 25",
+    "sentiment_score": -0.2628541446637002,
+    "created_at": "2026-01-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_75",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 26",
+    "sentiment_score": 0.0966550390588084,
+    "created_at": "2025-12-17T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_6",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 27",
+    "sentiment_score": -0.12941950387589513,
+    "created_at": "2025-11-20T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_86",
+    "channel": "GitHub",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 28",
+    "sentiment_score": 0.1542942918891556,
+    "created_at": "2025-12-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_45",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 29",
+    "sentiment_score": -0.21812716991228248,
+    "created_at": "2025-12-20T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_59",
+    "channel": "Twitter",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 30",
+    "sentiment_score": -0.2216290717986647,
+    "created_at": "2025-11-14T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_9",
+    "channel": "Twitter",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 31",
+    "sentiment_score": -0.06778882192391072,
+    "created_at": "2026-01-16T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_97",
+    "channel": "Discord",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 32",
+    "sentiment_score": -0.163605040763301,
+    "created_at": "2026-01-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_56",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 33",
+    "sentiment_score": 0.007426587653784511,
+    "created_at": "2025-11-20T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_50",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 34",
+    "sentiment_score": -0.023306975912516015,
+    "created_at": "2025-12-08T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_57",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 35",
+    "sentiment_score": 0.10868798847494515,
+    "created_at": "2025-12-09T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_98",
+    "channel": "GitHub",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 36",
+    "sentiment_score": 0.14749513575989975,
+    "created_at": "2025-11-05T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_4",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 37",
+    "sentiment_score": -0.011207180145162698,
+    "created_at": "2025-12-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_93",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 38",
+    "sentiment_score": -0.20400459256853892,
+    "created_at": "2025-11-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_59",
+    "channel": "Support Ticket",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 39",
+    "sentiment_score": -0.017668452301244753,
+    "created_at": "2026-01-01T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_37",
+    "channel": "GitHub",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 40",
+    "sentiment_score": 0.00018215534851656612,
+    "created_at": "2025-11-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_41",
+    "channel": "Email",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 41",
+    "sentiment_score": 0.062376479095714366,
+    "created_at": "2025-12-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_17",
+    "channel": "GitHub",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 42",
+    "sentiment_score": 0.12252647971827574,
+    "created_at": "2026-01-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_4",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 43",
+    "sentiment_score": -0.04939232525702425,
+    "created_at": "2025-11-03T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_41",
+    "channel": "Discord",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 44",
+    "sentiment_score": -0.0730351643019373,
+    "created_at": "2026-01-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_72",
+    "channel": "Support Ticket",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 45",
+    "sentiment_score": -0.1255034730077143,
+    "created_at": "2025-11-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_37",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 46",
+    "sentiment_score": 0.05056359952524031,
+    "created_at": "2026-01-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_3",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 47",
+    "sentiment_score": 0.1761728673809661,
+    "created_at": "2025-12-09T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_25",
+    "channel": "Email",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 48",
+    "sentiment_score": -0.09418505431592633,
+    "created_at": "2026-01-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_60",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 49",
+    "sentiment_score": 0.15292070217258374,
+    "created_at": "2025-11-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_44",
+    "channel": "GitHub",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 50",
+    "sentiment_score": -0.1538526053968194,
+    "created_at": "2026-01-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_21",
+    "channel": "Twitter",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 51",
+    "sentiment_score": -0.17177446358718923,
+    "created_at": "2026-01-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 52",
+    "sentiment_score": -0.10957190647806708,
+    "created_at": "2025-12-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_90",
+    "channel": "GitHub",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 53",
+    "sentiment_score": 0.022981965704108098,
+    "created_at": "2025-11-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_5",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 54",
+    "sentiment_score": -0.27460727606926777,
+    "created_at": "2025-12-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_1",
+    "channel": "Support Ticket",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 55",
+    "sentiment_score": -0.10179720087526772,
+    "created_at": "2026-01-17T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_82",
+    "channel": "Discord",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 56",
+    "sentiment_score": 0.16336597428457716,
+    "created_at": "2025-11-12T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_63",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 57",
+    "sentiment_score": -0.18538991530586973,
+    "created_at": "2026-01-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_65",
+    "channel": "Support Ticket",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 58",
+    "sentiment_score": -0.22751623441080887,
+    "created_at": "2026-01-17T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_44",
+    "channel": "Email",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 59",
+    "sentiment_score": -0.24067767160847703,
+    "created_at": "2025-11-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_54",
+    "channel": "Support Ticket",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 60",
+    "sentiment_score": -0.28079918976303014,
+    "created_at": "2025-11-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_64",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 61",
+    "sentiment_score": -0.10903452069036351,
+    "created_at": "2025-12-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_35",
+    "channel": "Support Ticket",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 62",
+    "sentiment_score": -0.1559312327335997,
+    "created_at": "2025-12-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_20",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 63",
+    "sentiment_score": 0.029932539658263757,
+    "created_at": "2026-01-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_24",
+    "channel": "GitHub",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 64",
+    "sentiment_score": 0.05205314164997926,
+    "created_at": "2026-01-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_1",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 65",
+    "sentiment_score": -0.11783065742095117,
+    "created_at": "2026-01-01T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_26",
+    "channel": "Twitter",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 66",
+    "sentiment_score": 0.16362046653334944,
+    "created_at": "2025-11-28T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_79",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 67",
+    "sentiment_score": -0.019315714745389012,
+    "created_at": "2025-11-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_28",
+    "channel": "Twitter",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 68",
+    "sentiment_score": -0.1795882196269301,
+    "created_at": "2026-01-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_37",
+    "channel": "Support Ticket",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 69",
+    "sentiment_score": -0.10955007491432572,
+    "created_at": "2026-01-03T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_23",
+    "channel": "GitHub",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 70",
+    "sentiment_score": -0.18710419667101524,
+    "created_at": "2025-12-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_53",
+    "channel": "Twitter",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 71",
+    "sentiment_score": -0.12253011808494602,
+    "created_at": "2025-11-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_88",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 72",
+    "sentiment_score": -0.04678915040001502,
+    "created_at": "2025-12-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_40",
+    "channel": "Email",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 73",
+    "sentiment_score": 0.19909803120788166,
+    "created_at": "2025-11-09T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_1",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 74",
+    "sentiment_score": 0.0033770436210825427,
+    "created_at": "2025-12-20T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_80",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 75",
+    "sentiment_score": 0.01921813865361227,
+    "created_at": "2025-11-04T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_59",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 76",
+    "sentiment_score": 0.1878355788399279,
+    "created_at": "2026-01-02T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_16",
+    "channel": "Support Ticket",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 77",
+    "sentiment_score": 0.08448163749166687,
+    "created_at": "2026-01-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_60",
+    "channel": "Discord",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 78",
+    "sentiment_score": -0.17080429710658757,
+    "created_at": "2025-11-12T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_49",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 79",
+    "sentiment_score": 0.18563072154489751,
+    "created_at": "2026-01-20T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_22",
+    "channel": "Twitter",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 80",
+    "sentiment_score": -0.17728101328952378,
+    "created_at": "2026-01-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_62",
+    "channel": "GitHub",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 81",
+    "sentiment_score": 0.062120105384506685,
+    "created_at": "2026-01-09T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_98",
+    "channel": "Discord",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 82",
+    "sentiment_score": -0.11891863100182815,
+    "created_at": "2025-12-09T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_83",
+    "channel": "Discord",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 83",
+    "sentiment_score": -0.1506640103727172,
+    "created_at": "2025-11-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_94",
+    "channel": "Support Ticket",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 84",
+    "sentiment_score": -0.2305959220574641,
+    "created_at": "2026-01-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_1",
+    "channel": "Email",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 85",
+    "sentiment_score": -0.20306491186457337,
+    "created_at": "2026-01-24T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_96",
+    "channel": "Support Ticket",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 86",
+    "sentiment_score": 0.017952801956710396,
+    "created_at": "2026-01-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_89",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 87",
+    "sentiment_score": 0.1575209497352031,
+    "created_at": "2025-11-14T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_33",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 88",
+    "sentiment_score": -0.10251038616155278,
+    "created_at": "2025-12-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_0",
+    "channel": "Twitter",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 89",
+    "sentiment_score": 0.18559045267672386,
+    "created_at": "2025-11-14T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_84",
+    "channel": "Email",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 90",
+    "sentiment_score": -0.2510936982175093,
+    "created_at": "2026-01-27T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_78",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 91",
+    "sentiment_score": -0.12077036574149297,
+    "created_at": "2026-01-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_30",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 92",
+    "sentiment_score": 0.04688608390126864,
+    "created_at": "2025-11-09T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_14",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 93",
+    "sentiment_score": -0.02864259095013405,
+    "created_at": "2025-12-08T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_57",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 94",
+    "sentiment_score": 0.06640482192573743,
+    "created_at": "2025-11-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_45",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 95",
+    "sentiment_score": -0.2416283815463403,
+    "created_at": "2025-12-14T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_27",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 96",
+    "sentiment_score": 0.16687926017226612,
+    "created_at": "2026-01-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_59",
+    "channel": "Support Ticket",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 97",
+    "sentiment_score": 0.1547754029850757,
+    "created_at": "2025-11-13T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_66",
+    "channel": "Discord",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 98",
+    "sentiment_score": 0.09456071627572366,
+    "created_at": "2025-11-27T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_68",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 99",
+    "sentiment_score": 0.0788172273596302,
+    "created_at": "2026-01-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_31",
+    "channel": "GitHub",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 100",
+    "sentiment_score": 0.13251208517251972,
+    "created_at": "2026-01-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_53",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 101",
+    "sentiment_score": -0.142097111573605,
+    "created_at": "2026-01-01T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_92",
+    "channel": "Email",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 102",
+    "sentiment_score": -0.1879143385178405,
+    "created_at": "2026-01-27T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_34",
+    "channel": "Support Ticket",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 103",
+    "sentiment_score": -0.2664496961796104,
+    "created_at": "2025-11-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_38",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 104",
+    "sentiment_score": -0.21056900895769654,
+    "created_at": "2026-01-02T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_2",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 105",
+    "sentiment_score": -0.19231948631634738,
+    "created_at": "2026-01-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_73",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 106",
+    "sentiment_score": 0.11748238007268602,
+    "created_at": "2025-12-14T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_14",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 107",
+    "sentiment_score": -0.17084661236441495,
+    "created_at": "2025-12-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_12",
+    "channel": "GitHub",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 108",
+    "sentiment_score": -0.28252466043044194,
+    "created_at": "2026-01-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_80",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 109",
+    "sentiment_score": -0.2960517523205149,
+    "created_at": "2025-12-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_99",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 110",
+    "sentiment_score": 0.048016428090115804,
+    "created_at": "2026-01-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_54",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 111",
+    "sentiment_score": -0.13680562615901254,
+    "created_at": "2026-01-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_17",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 112",
+    "sentiment_score": -0.05471955077333707,
+    "created_at": "2025-12-17T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_76",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 113",
+    "sentiment_score": -0.2221813974308508,
+    "created_at": "2026-01-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_35",
+    "channel": "Support Ticket",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 114",
+    "sentiment_score": -0.20236388311177073,
+    "created_at": "2025-12-13T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_60",
+    "channel": "Discord",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 115",
+    "sentiment_score": -0.22919030294526627,
+    "created_at": "2026-01-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_70",
+    "channel": "Support Ticket",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 116",
+    "sentiment_score": 0.04709068624797147,
+    "created_at": "2025-11-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_94",
+    "channel": "Email",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 117",
+    "sentiment_score": -0.1543125493371294,
+    "created_at": "2026-01-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_53",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 118",
+    "sentiment_score": -0.1202643802723829,
+    "created_at": "2025-11-17T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_78",
+    "channel": "GitHub",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 119",
+    "sentiment_score": -0.1669702210543213,
+    "created_at": "2026-01-09T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_43",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 120",
+    "sentiment_score": 0.09451383191782564,
+    "created_at": "2025-11-02T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_44",
+    "channel": "Twitter",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 121",
+    "sentiment_score": -0.09623828516146232,
+    "created_at": "2025-11-24T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_84",
+    "channel": "GitHub",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 122",
+    "sentiment_score": 0.12314567909754165,
+    "created_at": "2025-11-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_34",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 123",
+    "sentiment_score": -0.08096602808226722,
+    "created_at": "2025-11-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_11",
+    "channel": "Twitter",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 124",
+    "sentiment_score": -0.0630647470080899,
+    "created_at": "2025-12-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_73",
+    "channel": "Support Ticket",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 125",
+    "sentiment_score": 0.01366874461001849,
+    "created_at": "2025-12-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_55",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 126",
+    "sentiment_score": -0.2589971911994963,
+    "created_at": "2026-01-24T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_3",
+    "channel": "Email",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 127",
+    "sentiment_score": 0.019683075828080654,
+    "created_at": "2025-11-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_74",
+    "channel": "Email",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 128",
+    "sentiment_score": -0.11720781753529735,
+    "created_at": "2025-11-05T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_65",
+    "channel": "Email",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 129",
+    "sentiment_score": -0.12853699108288502,
+    "created_at": "2025-11-03T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_74",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 130",
+    "sentiment_score": -0.05666944164814608,
+    "created_at": "2025-12-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_24",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 131",
+    "sentiment_score": -0.24457798922918111,
+    "created_at": "2025-12-10T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_90",
+    "channel": "Twitter",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 132",
+    "sentiment_score": 0.12675281635951113,
+    "created_at": "2025-11-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_22",
+    "channel": "Support Ticket",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 133",
+    "sentiment_score": 0.019393967750904573,
+    "created_at": "2025-11-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_99",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 134",
+    "sentiment_score": 0.05981150472365465,
+    "created_at": "2025-12-24T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_55",
+    "channel": "Support Ticket",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 135",
+    "sentiment_score": 0.10283531015185249,
+    "created_at": "2026-01-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_24",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 136",
+    "sentiment_score": -0.1694339919853734,
+    "created_at": "2025-12-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_24",
+    "channel": "GitHub",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 137",
+    "sentiment_score": -0.03970067737021793,
+    "created_at": "2025-12-16T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_62",
+    "channel": "Support Ticket",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 138",
+    "sentiment_score": -0.18057869914757424,
+    "created_at": "2025-12-20T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Support Ticket",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 139",
+    "sentiment_score": -0.14477812159321585,
+    "created_at": "2025-12-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_46",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 140",
+    "sentiment_score": -0.10741757106600552,
+    "created_at": "2025-11-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_34",
+    "channel": "Twitter",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 141",
+    "sentiment_score": -0.24429423202899708,
+    "created_at": "2026-01-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_47",
+    "channel": "Discord",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 142",
+    "sentiment_score": -0.027071980583260713,
+    "created_at": "2025-11-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_6",
+    "channel": "Discord",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 143",
+    "sentiment_score": -0.06679422513625549,
+    "created_at": "2025-11-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_51",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 144",
+    "sentiment_score": -0.1793693931860572,
+    "created_at": "2025-11-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_14",
+    "channel": "Support Ticket",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 145",
+    "sentiment_score": 0.12335756741401899,
+    "created_at": "2025-11-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_50",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 146",
+    "sentiment_score": -0.027713894175602494,
+    "created_at": "2025-12-02T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_26",
+    "channel": "Discord",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 147",
+    "sentiment_score": -0.06925091612039574,
+    "created_at": "2026-01-17T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_39",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 148",
+    "sentiment_score": -0.06260373128619151,
+    "created_at": "2025-12-14T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_79",
+    "channel": "Support Ticket",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 149",
+    "sentiment_score": 0.10042437304704682,
+    "created_at": "2025-12-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_87",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 150",
+    "sentiment_score": -0.08964398218286201,
+    "created_at": "2025-12-02T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_52",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 151",
+    "sentiment_score": -0.007919766597833056,
+    "created_at": "2026-01-01T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_65",
+    "channel": "GitHub",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 152",
+    "sentiment_score": -0.02364752700774725,
+    "created_at": "2025-12-12T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_71",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 153",
+    "sentiment_score": 0.049364450039751595,
+    "created_at": "2025-11-08T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_23",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 154",
+    "sentiment_score": -0.0725796395967307,
+    "created_at": "2025-11-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_40",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 155",
+    "sentiment_score": -0.14638167403280627,
+    "created_at": "2026-01-13T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_62",
+    "channel": "Twitter",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 156",
+    "sentiment_score": -0.2385699145063776,
+    "created_at": "2025-12-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_27",
+    "channel": "Twitter",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 157",
+    "sentiment_score": -0.23702303779099693,
+    "created_at": "2025-12-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_39",
+    "channel": "Email",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 158",
+    "sentiment_score": -0.13472677900131208,
+    "created_at": "2025-12-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_29",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 159",
+    "sentiment_score": -0.1848411026749301,
+    "created_at": "2025-11-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_87",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 160",
+    "sentiment_score": 0.08523232531854924,
+    "created_at": "2026-01-27T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_69",
+    "channel": "Support Ticket",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 161",
+    "sentiment_score": 0.10947948090192111,
+    "created_at": "2026-01-12T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_55",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 162",
+    "sentiment_score": 0.046428594043537996,
+    "created_at": "2026-01-05T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_99",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 163",
+    "sentiment_score": 0.03556643138030163,
+    "created_at": "2026-01-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_69",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 164",
+    "sentiment_score": 0.012591947776679213,
+    "created_at": "2025-12-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_78",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 165",
+    "sentiment_score": -0.04037191107553889,
+    "created_at": "2026-01-13T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_89",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 166",
+    "sentiment_score": -0.09667549277711923,
+    "created_at": "2026-01-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_13",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 167",
+    "sentiment_score": 0.1749445718819645,
+    "created_at": "2025-12-07T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_44",
+    "channel": "Support Ticket",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 168",
+    "sentiment_score": -0.15303630243311578,
+    "created_at": "2025-11-08T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_28",
+    "channel": "Email",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 169",
+    "sentiment_score": 0.00036857645368065795,
+    "created_at": "2025-12-05T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_19",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 170",
+    "sentiment_score": -0.010213359156199198,
+    "created_at": "2025-11-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_84",
+    "channel": "Discord",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 171",
+    "sentiment_score": 0.07082840465526113,
+    "created_at": "2026-01-02T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_76",
+    "channel": "GitHub",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 172",
+    "sentiment_score": 0.06022752012919169,
+    "created_at": "2025-12-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_4",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 173",
+    "sentiment_score": -0.06427557997028871,
+    "created_at": "2025-11-06T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_88",
+    "channel": "Support Ticket",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 174",
+    "sentiment_score": 0.043764294920152824,
+    "created_at": "2025-11-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_0",
+    "channel": "GitHub",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 175",
+    "sentiment_score": 0.10421967018111084,
+    "created_at": "2026-01-16T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_78",
+    "channel": "GitHub",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 176",
+    "sentiment_score": 0.12045312344416986,
+    "created_at": "2025-12-08T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_4",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 177",
+    "sentiment_score": -0.29229888522412856,
+    "created_at": "2025-12-01T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_65",
+    "channel": "Support Ticket",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 178",
+    "sentiment_score": 0.19435414463329964,
+    "created_at": "2025-12-04T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_77",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 179",
+    "sentiment_score": -0.2568845620124744,
+    "created_at": "2025-11-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_61",
+    "channel": "Discord",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 180",
+    "sentiment_score": 0.07294718405651007,
+    "created_at": "2025-11-13T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_21",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 181",
+    "sentiment_score": 0.18729054981127063,
+    "created_at": "2025-12-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_13",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 182",
+    "sentiment_score": 0.06637835191277314,
+    "created_at": "2026-01-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_34",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 183",
+    "sentiment_score": 0.04387134881904248,
+    "created_at": "2026-01-08T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_95",
+    "channel": "Support Ticket",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 184",
+    "sentiment_score": -0.011278333054708656,
+    "created_at": "2025-12-03T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_78",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 185",
+    "sentiment_score": -0.20536519463980069,
+    "created_at": "2026-01-03T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_94",
+    "channel": "Twitter",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 186",
+    "sentiment_score": 0.044981263152703066,
+    "created_at": "2025-11-11T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_7",
+    "channel": "Email",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 187",
+    "sentiment_score": 0.0317122634995724,
+    "created_at": "2026-01-04T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_21",
+    "channel": "Twitter",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 188",
+    "sentiment_score": 0.028828249584184784,
+    "created_at": "2025-12-09T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_45",
+    "channel": "Email",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 189",
+    "sentiment_score": -0.2968343089529248,
+    "created_at": "2025-12-22T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_55",
+    "channel": "Discord",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 190",
+    "sentiment_score": 0.11519895174844569,
+    "created_at": "2026-01-16T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_49",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 191",
+    "sentiment_score": -0.20149593319076015,
+    "created_at": "2025-12-14T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_0",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 192",
+    "sentiment_score": 0.0618441673045344,
+    "created_at": "2025-12-26T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_74",
+    "channel": "Twitter",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 193",
+    "sentiment_score": -0.26227939037332487,
+    "created_at": "2025-12-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_96",
+    "channel": "Support Ticket",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Random feedback 194",
+    "sentiment_score": 0.15517302203456323,
+    "created_at": "2025-11-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_63",
+    "channel": "GitHub",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Random feedback 195",
+    "sentiment_score": 0.15633791987161155,
+    "created_at": "2025-11-11T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_92",
+    "channel": "Twitter",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 196",
+    "sentiment_score": 0.16421031642911793,
+    "created_at": "2025-12-30T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_54",
+    "channel": "Discord",
+    "issue_theme": "Worker cold start times",
+    "feedback_text": "Random feedback 197",
+    "sentiment_score": -0.056679563769487296,
+    "created_at": "2025-11-16T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_53",
+    "channel": "Email",
+    "issue_theme": "Slow dashboard loading",
+    "feedback_text": "Random feedback 198",
+    "sentiment_score": 0.09345462759784112,
+    "created_at": "2025-12-05T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_98",
+    "channel": "Twitter",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "Random feedback 199",
+    "sentiment_score": 0.17128297163735834,
+    "created_at": "2025-11-08T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Having trouble with rate limits",
+    "sentiment_score": -0.2,
+    "created_at": "2025-11-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_87",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Having trouble with rate limits",
+    "sentiment_score": -0.25,
+    "created_at": "2025-11-24T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_133",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Having trouble with rate limits",
+    "sentiment_score": -0.30000000000000004,
+    "created_at": "2025-11-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Having trouble with rate limits",
+    "sentiment_score": -0.35000000000000003,
+    "created_at": "2025-11-26T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_87",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Having trouble with rate limits",
+    "sentiment_score": -0.4,
+    "created_at": "2025-11-27T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Rate limits are blocking our production app",
+    "sentiment_score": -0.5,
+    "created_at": "2025-12-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_87",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Rate limits are blocking our production app",
+    "sentiment_score": -0.53,
+    "created_at": "2025-12-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_133",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Rate limits are blocking our production app",
+    "sentiment_score": -0.56,
+    "created_at": "2025-12-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Discord",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Rate limits are blocking our production app",
+    "sentiment_score": -0.59,
+    "created_at": "2025-12-27T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_87",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Rate limits are blocking our production app",
+    "sentiment_score": -0.62,
+    "created_at": "2025-12-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_133",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Rate limits are blocking our production app",
+    "sentiment_score": -0.65,
+    "created_at": "2025-12-31T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Rate limits are blocking our production app",
+    "sentiment_score": -0.6799999999999999,
+    "created_at": "2026-01-02T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_87",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "Rate limits are blocking our production app",
+    "sentiment_score": -0.71,
+    "created_at": "2026-01-04T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "URGENT: Rate limits are killing our business",
+    "sentiment_score": -0.85,
+    "created_at": "2026-01-23T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_87",
+    "channel": "Email",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "URGENT: Rate limits are killing our business",
+    "sentiment_score": -0.88,
+    "created_at": "2026-01-24T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_133",
+    "channel": "Twitter",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "URGENT: Rate limits are killing our business",
+    "sentiment_score": -0.9099999999999999,
+    "created_at": "2026-01-25T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_42",
+    "channel": "Twitter",
+    "issue_theme": "API rate limits too strict",
+    "feedback_text": "URGENT: Rate limits are killing our business",
+    "sentiment_score": -0.94,
+    "created_at": "2026-01-26T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_847",
+    "channel": "Discord",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Got charged twice this month",
+    "sentiment_score": -0.4,
+    "created_at": "2025-12-16T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_847",
+    "channel": "Email",
+    "issue_theme": "Billing errors",
+    "feedback_text": "Still seeing billing issues, need help",
+    "sentiment_score": -0.6,
+    "created_at": "2026-01-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_847",
+    "channel": "Twitter",
+    "issue_theme": "Billing errors",
+    "feedback_text": "@cloudflare billing is broken, been waiting weeks",
+    "sentiment_score": -0.9,
+    "created_at": "2026-01-29T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_200",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "KV documentation could be clearer",
+    "sentiment_score": -0.4,
+    "created_at": "2026-01-15T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_201",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "KV documentation could be clearer",
+    "sentiment_score": -0.4,
+    "created_at": "2026-01-16T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_202",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "KV documentation could be clearer",
+    "sentiment_score": -0.4,
+    "created_at": "2026-01-17T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_203",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "KV documentation could be clearer",
+    "sentiment_score": -0.4,
+    "created_at": "2026-01-18T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_204",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "KV documentation could be clearer",
+    "sentiment_score": -0.4,
+    "created_at": "2026-01-19T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_205",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "KV documentation could be clearer",
+    "sentiment_score": -0.4,
+    "created_at": "2026-01-20T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_206",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "KV documentation could be clearer",
+    "sentiment_score": -0.4,
+    "created_at": "2026-01-21T15:35:39.558Z"
+  },
+  {
+    "user_id": "user_207",
+    "channel": "GitHub",
+    "issue_theme": "Documentation unclear",
+    "feedback_text": "KV documentation could be clearer",
+    "sentiment_score": -0.4,
+    "created_at": "2026-01-22T15:35:39.558Z"
+  }
+]
